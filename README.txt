@@ -1,0 +1,5 @@
+Author: Sarang Harris
+Date: April 2020-present
+
+This application provides transparency and visibility to users about the state of their air quality over the years. I chose to use an EPA Air Quality data set. This dataset has 55 attributes and is approximately 948MB in size. This dataset contains information on the annual air quality in the United States, broken down by county and state. This data set was posted by the US Environmental Protection Agency on https://www.kaggle.com/epa/air-quality​ and is part of public domain. This specific dataset was chosen because of its relevance to rising environmental concerns within the United States. This application was specifically designed to empower users and educate them about the air quality in the areas they live in.
+Our application allows users to request to see trends from a certain time frame or within a certain area of the United States. This application also has functionality that allows users to update missing information, such as a missing site name or pollution parameter name. 
